@@ -1,0 +1,9 @@
+{
+  "name": "EzyAbsen",
+  "description": "Solusi Aplikasi Absensi GRATIS untuk bisnis UMKM dengan fitur swafoto, GPS, pengajuan izin, dan laporan real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
